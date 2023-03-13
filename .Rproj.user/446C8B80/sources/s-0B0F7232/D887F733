@@ -3,7 +3,7 @@
     "path": "C:/Users/A02343179/Box Sync/Teaching/Reproducible Science/2023/Practice/my_bookdown_website/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "4118239092",
     "contents": "",
     "dirty": false,
     "created": 1678736349448.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "10,116",
+        "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678736345,
+    "lastKnownWriteTime": 1678738410,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678736345,
+    "last_content_update": 1678738410508,
     "read_only": false,
     "read_only_alternatives": []
 }
